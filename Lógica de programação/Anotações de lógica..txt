@@ -1,0 +1,7 @@
+E-books: (https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf)
+	   (https://idocode.com.br/blog/programacao/logica-de-programacao-conheca-as-melhores-formas-de-aprender/)
+
+
+Vídeo aulas:
+Lógica: (https://pt.khanacademy.org/computing/computer-programming/programming#logic-if-statements)
+        ( https://www.youtube.com/watch?v=lymtuqJdf8U&list=PLAIgeRdMaoGVrASBxWcbAurQMzXJMArkg)

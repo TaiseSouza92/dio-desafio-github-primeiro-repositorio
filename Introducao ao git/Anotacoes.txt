@@ -1,2 +1,7 @@
 Vídeos sobre git :(https://www.youtube.com/watch?v=DqTITcMq68k&t=807s); (https://www.youtube.com/watch?v=UBAX-13g8OM)
+
+Comandos git: https://www.devmedia.com.br/como-usar-os-comandos-do-git/33665
+ (https://www.codigofonte.com.br/artigos/top-25-comandos-do-git)
+
+
                    
