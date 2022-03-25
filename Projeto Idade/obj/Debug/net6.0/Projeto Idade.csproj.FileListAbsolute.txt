@@ -1,0 +1,15 @@
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\bin\Debug\net6.0\Projeto Idade.exe
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\bin\Debug\net6.0\Projeto Idade.deps.json
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\bin\Debug\net6.0\Projeto Idade.runtimeconfig.json
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\bin\Debug\net6.0\Projeto Idade.dll
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\bin\Debug\net6.0\Projeto Idade.pdb
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\Projeto Idade.csproj.AssemblyReference.cache
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\Projeto Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\Projeto Idade.AssemblyInfoInputs.cache
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\Projeto Idade.AssemblyInfo.cs
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\Projeto Idade.csproj.CoreCompileInputs.cache
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\Projeto Idade.dll
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\refint\Projeto Idade.dll
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\Projeto Idade.pdb
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\Projeto Idade.genruntimeconfig.cache
+C:\Users\taise\projetos\dio\dio-desafio-github-primeiro-repositorio\Projeto Idade\obj\Debug\net6.0\ref\Projeto Idade.dll
