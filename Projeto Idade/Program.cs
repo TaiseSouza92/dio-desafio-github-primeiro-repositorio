@@ -18,5 +18,16 @@ class Program
 
         int Idade= AnoAtual- AnoNascimento; // Declarando e atribuindo valor a variável
         Console.WriteLine("Sua idade é:"+ Idade);
+
+        Console.WriteLine("Digite o seu Mês de nascimento");
+        int Mes =int.Parse(Console.ReadLine());
+        
+        if (Mes>6)
+        {
+            Console.WriteLine("Você nasceu no segundo semestre");  
+        }else
+        {
+            Console.WriteLine("Você nasceu no primeiro semesnte");
+        }
     }
 }
